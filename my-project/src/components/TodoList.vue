@@ -1,7 +1,7 @@
 <template>
   <div id='todo-list'>
   <div>{{msg}}</div>
-    <todo-item :msg={{msg}}></todo-item>
+    <todo-item></todo-item>
   </div>
 </template>
 
